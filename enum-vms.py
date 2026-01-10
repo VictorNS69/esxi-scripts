@@ -55,7 +55,7 @@ Examples:
     )
     
     parser.add_argument(
-        "-i", "--insecure",
+        "-k", "--insecure",
         action="store_true",
         help="Disable SSL certificate verification"
     )
